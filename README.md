@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amitverma2699
+- 👋 Hi, I’m Amit Verma
 - 👀 I’m interested in data science, machine learning, and solving complex problems with data-driven insights.
 - 🌱 I’m currently learning advanced deep learning techniques and exploring MLOps for scaling ML models.
 - 💞️ I’m looking to collaborate on open-source data science projects and innovative machine learning applications. 
